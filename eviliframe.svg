@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080">
+  <foreignObject width="1920" height="1080">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;">
+      <iframe src="https://evil.com" width="1920" height="1080" style="border:none;"></iframe>
+    </body>
+  </foreignObject>
+</svg>
